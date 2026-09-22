@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>
-  <i>Rebeu solitaire et sans pitié</i>
+  <i>Arabe solitaire et sans pitié</i>
 </h2>
 
 <br>
